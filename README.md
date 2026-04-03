@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/Yuin0329/LC-Record/tree/master/0709-to-lower-case) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Yuin0329/LC-Record/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Yuin0329/LC-Record/tree/master/0867-transpose-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Yuin0329/LC-Record/tree/master/1422-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
