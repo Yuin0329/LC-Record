@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Yuin0329/LC-Record/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Yuin0329/LC-Record/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yuin0329/LC-Record/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/Yuin0329/LC-Record/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Yuin0329/LC-Record/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Yuin0329/LC-Record/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Yuin0329/LC-Record/tree/master/2413-smallest-even-multiple) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Yuin0329/LC-Record/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/Yuin0329/LC-Record/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
