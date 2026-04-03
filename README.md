@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuin0329/LC-Record/tree/master/0001-two-sum) |
+| [0867-transpose-matrix](https://github.com/Yuin0329/LC-Record/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/Yuin0329/LC-Record/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Yuin0329/LC-Record/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/Yuin0329/LC-Record/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Yuin0329/LC-Record/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Yuin0329/LC-Record/tree/master/0326-power-of-three) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Yuin0329/LC-Record/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
