@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuin0329/LC-Record/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yuin0329/LC-Record/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yuin0329/LC-Record/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Yuin0329/LC-Record/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Yuin0329/LC-Record/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yuin0329/LC-Record/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0709-to-lower-case](https://github.com/Yuin0329/LC-Record/tree/master/0709-to-lower-case) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Yuin0329/LC-Record/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yuin0329/LC-Record/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yuin0329/LC-Record/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Yuin0329/LC-Record/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yuin0329/LC-Record/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yuin0329/LC-Record/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
