@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Yuin0329/LC-Record/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yuin0329/LC-Record/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yuin0329/LC-Record/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Yuin0329/LC-Record/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Yuin0329/LC-Record/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Yuin0329/LC-Record/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
