@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Yuin0329/LC-Record/tree/master/1470-shuffle-the-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Yuin0329/LC-Record/tree/master/2090-k-radius-subarray-averages) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Yuin0329/LC-Record/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Yuin0329/LC-Record/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuin0329/LC-Record/tree/master/0001-two-sum) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Yuin0329/LC-Record/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yuin0329/LC-Record/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/Yuin0329/LC-Record/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Yuin0329/LC-Record/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Yuin0329/LC-Record/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 <!---LeetCode Topics End-->
