@@ -1,18 +1,18 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-        int ans=0,left=0;
-        unordered_map<int,int> mp;
-        for(int i=0;i<nums.size();i++){
-            mp[nums[i]]++;
-            while(mp[nums[i]]>=2 && nums[i]==0)
-            {
-                mp[nums[left]]--;
+        int left = 0, zeroCount = 0, ans = 0;
+
+        for (int right = 0; right < nums.size(); right++) {
+            if (nums[right] == 0) zeroCount++;
+
+            while (zeroCount > 1) {
+                if (nums[left] == 0) zeroCount--;
                 left++;
             }
-            ans=max(ans,i-left);
-            
+            ans = max(ans, right - left);  
         }
+
         return ans;
     }
 };
