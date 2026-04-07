@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2555-maximize-win-from-two-segments](https://github.com/Yuin0329/LC-Record/tree/master/2555-maximize-win-from-two-segments) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Yuin0329/LC-Record/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Yuin0329/LC-Record/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuin0329/LC-Record/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Yuin0329/LC-Record/tree/master/3634-minimum-removals-to-balance-array) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Yuin0329/LC-Record/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Yuin0329/LC-Record/tree/master/1512-number-of-good-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yuin0329/LC-Record/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Yuin0329/LC-Record/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuin0329/LC-Record/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yuin0329/LC-Record/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Yuin0329/LC-Record/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## String
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yuin0329/LC-Record/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-maximize-win-from-two-segments](https://github.com/Yuin0329/LC-Record/tree/master/2555-maximize-win-from-two-segments) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Yuin0329/LC-Record/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuin0329/LC-Record/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yuin0329/LC-Record/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Yuin0329/LC-Record/tree/master/3634-minimum-removals-to-balance-array) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Yuin0329/LC-Record/tree/master/3679-minimum-discards-to-balance-inventory) |
