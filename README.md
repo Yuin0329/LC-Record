@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yuin0329/LC-Record/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Yuin0329/LC-Record/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Yuin0329/LC-Record/tree/master/1534-count-good-triplets) |
+| [1695-maximum-erasure-value](https://github.com/Yuin0329/LC-Record/tree/master/1695-maximum-erasure-value) |
 | [2090-k-radius-subarray-averages](https://github.com/Yuin0329/LC-Record/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yuin0329/LC-Record/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-maximize-win-from-two-segments](https://github.com/Yuin0329/LC-Record/tree/master/2555-maximize-win-from-two-segments) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuin0329/LC-Record/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Yuin0329/LC-Record/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/Yuin0329/LC-Record/tree/master/1512-number-of-good-pairs) |
+| [1695-maximum-erasure-value](https://github.com/Yuin0329/LC-Record/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yuin0329/LC-Record/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Yuin0329/LC-Record/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuin0329/LC-Record/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yuin0329/LC-Record/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yuin0329/LC-Record/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yuin0329/LC-Record/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1695-maximum-erasure-value](https://github.com/Yuin0329/LC-Record/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuin0329/LC-Record/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/Yuin0329/LC-Record/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Yuin0329/LC-Record/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
