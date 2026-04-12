@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yuin0329/LC-Record/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-maximize-win-from-two-segments](https://github.com/Yuin0329/LC-Record/tree/master/2555-maximize-win-from-two-segments) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Yuin0329/LC-Record/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yuin0329/LC-Record/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Yuin0329/LC-Record/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuin0329/LC-Record/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Yuin0329/LC-Record/tree/master/3634-minimum-removals-to-balance-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/Yuin0329/LC-Record/tree/master/1208-get-equal-substrings-within-budget) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Yuin0329/LC-Record/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2555-maximize-win-from-two-segments](https://github.com/Yuin0329/LC-Record/tree/master/2555-maximize-win-from-two-segments) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yuin0329/LC-Record/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Yuin0329/LC-Record/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yuin0329/LC-Record/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2555-maximize-win-from-two-segments](https://github.com/Yuin0329/LC-Record/tree/master/2555-maximize-win-from-two-segments) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/Yuin0329/LC-Record/tree/master/2730-find-the-longest-semi-repetitive-substring) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yuin0329/LC-Record/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Yuin0329/LC-Record/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuin0329/LC-Record/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yuin0329/LC-Record/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yuin0329/LC-Record/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Yuin0329/LC-Record/tree/master/3634-minimum-removals-to-balance-array) |
 ## Tree
 |  |
