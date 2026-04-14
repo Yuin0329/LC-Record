@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuin0329/LC-Record/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Yuin0329/LC-Record/tree/master/3634-minimum-removals-to-balance-array) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Yuin0329/LC-Record/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Yuin0329/LC-Record/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuin0329/LC-Record/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yuin0329/LC-Record/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Yuin0329/LC-Record/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Yuin0329/LC-Record/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yuin0329/LC-Record/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Yuin0329/LC-Record/tree/master/3634-minimum-removals-to-balance-array) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Yuin0329/LC-Record/tree/master/3679-minimum-discards-to-balance-inventory) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Yuin0329/LC-Record/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sorting
 |  |
 | ------- |
