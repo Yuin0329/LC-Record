@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Yuin0329/LC-Record/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Yuin0329/LC-Record/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/Yuin0329/LC-Record/tree/master/2730-find-the-longest-semi-repetitive-substring) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Yuin0329/LC-Record/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yuin0329/LC-Record/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/Yuin0329/LC-Record/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yuin0329/LC-Record/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Yuin0329/LC-Record/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Yuin0329/LC-Record/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuin0329/LC-Record/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yuin0329/LC-Record/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Yuin0329/LC-Record/tree/master/3634-minimum-removals-to-balance-array) |
