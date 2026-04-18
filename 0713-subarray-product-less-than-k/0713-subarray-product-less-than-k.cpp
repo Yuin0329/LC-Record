@@ -1,15 +1,20 @@
 class Solution {
 public:
     int numSubarrayProductLessThanK(vector<int>& nums, int k) {
-        int ans=0,n=nums.size(),cnt=0;
-        for(int left=0;left<n;left++ ){
-            long long int pd=1 ;
-            for(int right=left;right<n;right++ ){               
-            pd*=nums[right];
-            if(pd<k) cnt++;
-            else break;
-            }
+        if (k <= 1) {
+            return 0;
         }
-        return cnt;
+        int ans = 0, prod = 1, left = 0;
+        for (int right = 0; right < nums.size(); right++) {
+            prod *= nums[right];
+            while (prod >= k) { // 不满足要求
+                prod /= nums[left];
+                left++; // 缩小窗口
+            }
+            // 对于固定的 right，有 right-left+1 个合法的左端点
+            ans += right - left + 1;
+        }
+        return ans;
     }
 };
+
