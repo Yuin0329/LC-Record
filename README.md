@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Yuin0329/LC-Record/tree/master/3634-minimum-removals-to-balance-array) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Yuin0329/LC-Record/tree/master/3679-minimum-discards-to-balance-inventory) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Yuin0329/LC-Record/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3903-smallest-stable-index-i](https://github.com/Yuin0329/LC-Record/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
