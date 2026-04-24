@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Yuin0329/LC-Record/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3903-smallest-stable-index-i](https://github.com/Yuin0329/LC-Record/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Yuin0329/LC-Record/tree/master/3904-smallest-stable-index-ii) |
+| [3905-multi-source-flood-fill](https://github.com/Yuin0329/LC-Record/tree/master/3905-multi-source-flood-fill) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Yuin0329/LC-Record/tree/master/0867-transpose-matrix) |
+| [3905-multi-source-flood-fill](https://github.com/Yuin0329/LC-Record/tree/master/3905-multi-source-flood-fill) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Yuin0329/LC-Record/tree/master/1534-count-good-triplets) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3905-multi-source-flood-fill](https://github.com/Yuin0329/LC-Record/tree/master/3905-multi-source-flood-fill) |
 <!---LeetCode Topics End-->
