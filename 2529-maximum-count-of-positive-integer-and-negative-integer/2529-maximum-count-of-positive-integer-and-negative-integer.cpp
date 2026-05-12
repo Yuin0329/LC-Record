@@ -14,7 +14,6 @@ public:
         int n=nums.size();
         int neg = lower_bound(nums, 0); // 第一個 >= 0 的位置 = 負數數量
         int pos = n - lower_bound(nums, 1); // 第一個 >= 1 的位置後面都是正數
-        //if(nums[0] >0 || nums[n-1] <0 ) return n;
         return max(neg,pos);
         
 }
