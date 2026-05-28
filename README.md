@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuin0329/LC-Record/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/Yuin0329/LC-Record/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Yuin0329/LC-Record/tree/master/0709-to-lower-case) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Yuin0329/LC-Record/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yuin0329/LC-Record/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Yuin0329/LC-Record/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Yuin0329/LC-Record/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Yuin0329/LC-Record/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Yuin0329/LC-Record/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Yuin0329/LC-Record/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yuin0329/LC-Record/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Yuin0329/LC-Record/tree/master/1486-xor-operation-in-an-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Yuin0329/LC-Record/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Yuin0329/LC-Record/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Yuin0329/LC-Record/tree/master/0867-transpose-matrix) |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/Yuin0329/LC-Record/tree/master/3679-minimum-discards-to-balance-inventory) |
 ## Number Theory
