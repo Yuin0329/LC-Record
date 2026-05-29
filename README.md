@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Yuin0329/LC-Record/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Yuin0329/LC-Record/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Yuin0329/LC-Record/tree/master/1534-count-good-triplets) |
+| [1672-richest-customer-wealth](https://github.com/Yuin0329/LC-Record/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/Yuin0329/LC-Record/tree/master/1695-maximum-erasure-value) |
 | [2090-k-radius-subarray-averages](https://github.com/Yuin0329/LC-Record/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Yuin0329/LC-Record/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Yuin0329/LC-Record/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Yuin0329/LC-Record/tree/master/1672-richest-customer-wealth) |
 | [3905-multi-source-flood-fill](https://github.com/Yuin0329/LC-Record/tree/master/3905-multi-source-flood-fill) |
 ## Prefix Sum
 |  |
