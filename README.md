@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yuin0329/LC-Record/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yuin0329/LC-Record/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yuin0329/LC-Record/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Yuin0329/LC-Record/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Yuin0329/LC-Record/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Yuin0329/LC-Record/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Yuin0329/LC-Record/tree/master/0713-subarray-product-less-than-k) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yuin0329/LC-Record/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuin0329/LC-Record/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Yuin0329/LC-Record/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/Yuin0329/LC-Record/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Yuin0329/LC-Record/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yuin0329/LC-Record/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Yuin0329/LC-Record/tree/master/0217-contains-duplicate) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Yuin0329/LC-Record/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Yuin0329/LC-Record/tree/master/3634-minimum-removals-to-balance-array) |
 ## Tree
